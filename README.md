@@ -1,6 +1,7 @@
 # Pong 2.0
 
 **Autor:** Fernando de Jesus Lemus Martinez
+
 **Curso:** Logica de Programacion
 
 ## Descripción
